@@ -1,3 +1,9 @@
+List of websites packed in this fork:
+- Discord
+- Last.fm (only the profile page of myself, surely you have to build one for your own profile using Pake)
+
+---
+
 <h4 align="right"><strong>English</strong> | <a href="https://github.com/tw93/Pake/blob/master/README_CN.md">简体中文</a></h4>
 <p align="center">
     <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
