@@ -1,5 +1,7 @@
 List of websites packed in this fork:
 - Discord
+- Google drive
+- Gmail
 - Last.fm (only the profile page of myself, surely you have to build one for your own profile using Pake)
 
 ---
